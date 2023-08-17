@@ -1,0 +1,12 @@
+{
+  "name": "pure-array-functions-inclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employees.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Telerik Academy",
+  "license": "ISC"
+}

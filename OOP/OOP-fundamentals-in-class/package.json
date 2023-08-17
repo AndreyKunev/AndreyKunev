@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "lint": "eslint src/main.js",
+    "docs": "jsdoc -r ./src -t ./node_modules/better-docs -d docs ./README.md"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "better-docs": "^2.3.0",
+    "eslint": "^7.4.0",
+    "jsdoc": "^3.6.4"
+  },
+  "dependencies": {
+    "@types/moment": "^2.13.0",
+    "moment": "^2.29.4"
+  }
+}
