@@ -1,5 +1,5 @@
 export class Phonebook {
-  contacts;
+  #contacts;
 
   constructor() {
     // missing implementation
