@@ -108,12 +108,12 @@ export class Contact {
    */
   viewHistoryLog() {
     if (this.history.length === 0) {
-      console.log('No entries');
+      console.log(`${this.name}'s call log\nNo entries`);
     } else {
-      let logString = `${this.name}'s call log\n`;
+      let logString = `${this.name}'s call log`;
       for (let i = this.history.length - 1; i >= 0; i--) {
         const element = this.history[i];
-        logString += `${element}\n`;
+        logString += `\n${element}`;
       }
 
       console.log(logString);
