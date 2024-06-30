@@ -16,7 +16,7 @@
 📚 **Current Focus**:
 - 🌱 Currently learning Node.js. 
 - 🌐 Exploring web dev in Python.
-- 🤖 Getting more familiar with C.
+- 🤖 Getting familiar with C.
   
 📫 **Get in Touch**:
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrey-kunev/)
