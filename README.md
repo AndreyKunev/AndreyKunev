@@ -11,7 +11,6 @@
 🌟 **Experience**:
 - 🚀 Developed and optimized automation scripts for data processing using Python.
 - 🌐 Created and maintained automation scripts to download and process data efficiently.
-- 📈 Successfully grew CryptoDnes.bg traffic to become the largest online cryptocurrency media in Bulgaria, achieving over 100% year-over-year traffic growth.
 
 📚 **Current Focus**:
 - 🌱 Currently learning Node.js. 
