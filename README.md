@@ -5,7 +5,7 @@
 
 🔧 **Skills**:
 - **Languages**: 🐍 Python, 📜 JavaScript, 🟦 TypeScript, 🐪 Perl
-- **Web Development**: ⚛️ React, 🌐 Node.js, 🖥️ Express, HTML/CSS
+- **Web Development**: ⚛️ React and React Native, 🌐 Node.js, 🖥️ Express, HTML/CSS
 - **Web Scraping, Data Processing & Automation**: 🤖 Selenium WebDriver, 👾 Puppeteer, 🍲 Beautiful Soup, 🔍 Regular Expressions
 
 🌟 **Experience**:
@@ -13,7 +13,7 @@
 - 🌐 Created and maintained automation scripts to download and process data efficiently.
 
 📚 **Current Focus**:
-- 🌱 Currently learning Node.js. 
+- 🌱 Currently practicing Node.js and React Native. 
 - 🌐 Exploring web dev in Python.
 - 🤖 Getting familiar with C.
   
