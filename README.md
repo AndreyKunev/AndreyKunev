@@ -1,7 +1,7 @@
 👨‍💻 Software Developer | 🚀 Tech Enthusiast | 🌐 Avid Learner
 
 💡 **About Me**:
-- 🧑‍💻 Started with frontend, learning my way to fullstack, exploring programming beyond web dev.
+- 🧑‍💻 Started with frontend, learning my way to fullstack.
 
 🔧 **Skills**:
 - **Languages**: 🐍 Python, 📜 JavaScript, 🟦 TypeScript, 🐪 Perl
@@ -15,7 +15,7 @@
 📚 **Current Focus**:
 - 🌱 Currently practicing Node.js and React Native. 
 - 🌐 Exploring web dev in Python.
-- 🤖 Getting familiar with C.
+- 🤖 Tryig to stay sharp.
   
 📫 **Get in Touch**:
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrey-kunev/)
