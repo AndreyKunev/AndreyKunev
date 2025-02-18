@@ -13,9 +13,9 @@
 - 🌐 Created and maintained automation scripts to download and process data efficiently.
 
 📚 **Current Focus**:
-- 🌱 Currently practicing Node.js and React Native. 
-- 🌐 Exploring web dev in Python.
-- 🤖 Tryig to stay sharp.
+- 🌱 Practicing Node.js and learning about backend concepts. 
+- 🟦 Practicing and learning more TypeScript.
+- 🤖 Trying to stay sharp.
   
 📫 **Get in Touch**:
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrey-kunev/)
