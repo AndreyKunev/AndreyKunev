@@ -4,7 +4,7 @@
 - 🧑‍💻 Started with frontend, learning my way to fullstack.
 
 🔧 **Skills**:
-- **Languages**: 🐍 Python, 📜 JavaScript, 🟦 TypeScript, 🐪 Perl
+- **Languages**: 🐍 Python, 📜 JavaScript, 🟦 TypeScript
 - **Web Development**: ⚛️ React and React Native, 🌐 Node.js, 🖥️ Express, HTML/CSS
 - **Web Scraping, Data Processing & Automation**: 🤖 Selenium WebDriver, 👾 Puppeteer, 🍲 Beautiful Soup, 🔍 Regular Expressions
 
